@@ -9,7 +9,6 @@ const containerElement = document.getElementById("app");
 
 const config: GameConfig = {
     containerNode: containerElement,
-    //gameWidth: 1494,
     gameWidth: 512,
     gameHeight: 840,
     debugEnabled: false,
