@@ -1,5 +1,4 @@
-import { Component, TimeManager, Vector2 } from "mini-engine";
-import { random } from "../..";
+import { Component, TimeManager, Vector2, random } from "mini-engine";
 import { Enemy } from "../../gameobject/enemy/Enemy";
 
 export class EnemyMovements extends Component {

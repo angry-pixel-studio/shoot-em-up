@@ -3,8 +3,6 @@ import { GameScene } from "./scene/GameScene";
 import { StartScene } from "./scene/StartScene";
 import { LoadingScene } from "./scene/LoadingScene";
 
-export const random = (min: number, max: number): number => Math.floor(Math.random() * (max - min)) + min;
-
 const containerElement = document.getElementById("app");
 
 const config: GameConfig = {

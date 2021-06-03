@@ -1,9 +1,8 @@
-import { GameObject, GameObjectManager, TimeManager, TYPE_BOX_COLLIDER, Vector2 } from "mini-engine";
+import { GameObject, GameObjectManager, TimeManager, TYPE_BOX_COLLIDER, Vector2, random } from "mini-engine";
 import { EnemyBig } from "./EnemyBig";
 import { EnemyMedium } from "./EnemyMedium";
 import { EnemySmall } from "./EnemySmall";
 import { Enemy, EnemyType } from "./Enemy";
-import { random } from "../..";
 
 const difficulty: 1 | 2 | 3 | 4 = 2;
 
