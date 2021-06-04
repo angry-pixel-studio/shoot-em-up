@@ -22,4 +22,5 @@ module.exports = {
     devServer: {
         contentBase: "./dist",
     },
+    target: "electron-main",
 };

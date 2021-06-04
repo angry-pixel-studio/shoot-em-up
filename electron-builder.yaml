@@ -1,0 +1,11 @@
+directories:
+    output: electron-build
+    buildResources: build
+appId: mini-shmup
+electronVersion: 13.0.1
+win:
+    target:
+        - target: portable
+          arch:
+              - x64
+              - ia32

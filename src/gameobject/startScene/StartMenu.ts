@@ -72,7 +72,8 @@ export class StartMenu extends GameObject {
         }
 
         if (this.inputController.quit) {
-            this.getCurrentScene().game.stop();
+            // this.getCurrentScene().game.stop();
+            window.close();
         }
     }
 }
