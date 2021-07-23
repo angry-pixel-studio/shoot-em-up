@@ -3,8 +3,7 @@
     "target": "es5",
     "module": "commonjs",
     "lib": [ "es2020", "dom" ],
-    "declaration": true,
-    "outDir": "lib",
+    "declaration": false,
     "rootDir": "src",
     "strict": true,
     "strictNullChecks": false,
@@ -14,5 +13,5 @@
     "esModuleInterop": true
   },
   "include": ["src"],
-  "exclude": ["node_modules", "lib"]
+  "exclude": ["node_modules"]
 }
