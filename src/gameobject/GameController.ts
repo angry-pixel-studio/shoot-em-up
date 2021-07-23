@@ -1,4 +1,4 @@
-import { AssetManager, AudioPlayer, GameObject, SceneManager, TimeManager } from "mini-engine";
+import { AssetManager, AudioPlayer, GameObject, SceneManager, TimeManager } from "angry-pixel";
 import { PlayerStatus } from "../component/player/PlayerStatus";
 import { InputController } from "./InputController";
 import { GameOver } from "./ui/GameOver";

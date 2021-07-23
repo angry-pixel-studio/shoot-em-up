@@ -1,4 +1,4 @@
-import { GameObject, GameObjectManager, TimeManager, TYPE_BOX_COLLIDER, Vector2, random } from "mini-engine";
+import { GameObject, GameObjectManager, TimeManager, TYPE_BOX_COLLIDER, Vector2, random } from "angry-pixel";
 import { EnemyBig } from "./EnemyBig";
 import { EnemyMedium } from "./EnemyMedium";
 import { EnemySmall } from "./EnemySmall";

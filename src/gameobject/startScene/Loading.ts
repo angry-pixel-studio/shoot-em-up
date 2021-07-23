@@ -1,4 +1,4 @@
-import { GameObject, TextRenderer, Vector2 } from "mini-engine";
+import { GameObject, TextRenderer, Vector2 } from "angry-pixel";
 
 export class Loading extends GameObject {
     constructor() {

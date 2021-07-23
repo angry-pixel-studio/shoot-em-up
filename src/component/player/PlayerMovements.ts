@@ -1,4 +1,4 @@
-import { Component, TimeManager, Vector2 } from "mini-engine";
+import { Component, TimeManager, Vector2 } from "angry-pixel";
 import { InputController } from "../../gameobject/InputController";
 import { PlayerStatus } from "./PlayerStatus";
 

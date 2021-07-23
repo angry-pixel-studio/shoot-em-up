@@ -1,4 +1,4 @@
-import { Animator, AssetManager, AudioPlayer, BoxCollider, GameObject, SpriteRenderer, Vector2 } from "mini-engine";
+import { Animator, AssetManager, AudioPlayer, BoxCollider, GameObject, SpriteRenderer, Vector2 } from "angry-pixel";
 import { explosionAnimation } from "../../animation/CommonAnimations";
 import { GameController } from "../GameController";
 import { EnemySpawner, ENEMY_RESTORE_Y } from "./EnemySpawner";

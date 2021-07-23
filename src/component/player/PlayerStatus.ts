@@ -11,7 +11,7 @@ import {
     TYPE_BOX_COLLIDER,
     TYPE_SPRITE_RENDERER,
     Vector2,
-} from "mini-engine";
+} from "angry-pixel";
 
 const invulnerabilityPeriod = 3;
 const respawnDelay = 2;

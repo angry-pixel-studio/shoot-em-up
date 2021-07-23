@@ -1,4 +1,4 @@
-import { AssetManager, Scene, SceneManager } from "mini-engine";
+import { AssetManager, Scene, SceneManager } from "angry-pixel";
 import { Loading } from "../gameobject/startScene/Loading";
 
 export class LoadingScene extends Scene {

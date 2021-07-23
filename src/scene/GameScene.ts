@@ -1,4 +1,4 @@
-import { Scene } from "mini-engine";
+import { Scene } from "angry-pixel";
 import { Background } from "../gameobject/Background";
 import { EnemySpawner } from "../gameobject/enemy/EnemySpawner";
 import { GameController } from "../gameobject/GameController";
