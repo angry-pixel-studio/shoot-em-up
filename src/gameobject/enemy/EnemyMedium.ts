@@ -1,4 +1,4 @@
-import { BoxCollider } from "mini-engine";
+import { BoxCollider } from "angry-pixel";
 import { enemyMediumAnimation } from "../../animation/EnemyAnimations";
 import { EnemyMovements } from "../../component/enemy/EnemyMovements";
 import { Enemy } from "./Enemy";

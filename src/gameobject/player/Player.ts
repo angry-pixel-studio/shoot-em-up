@@ -6,8 +6,9 @@ import {
     RigidBody,
     RigidBodyType,
     SpriteRenderer,
+    TYPE_RIGIDBODY,
     Vector2,
-} from "mini-engine";
+} from "angry-pixel";
 import { explosionAnimation } from "../../animation/CommonAnimations";
 import { playerFly } from "../../animation/PlayerAnimations";
 import { PlayerStatus } from "../../component/player/PlayerStatus";

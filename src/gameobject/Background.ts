@@ -1,4 +1,4 @@
-import { AssetManager, GameObject, Sprite, SpriteRenderer, TimeManager, Vector2 } from "mini-engine";
+import { AssetManager, GameObject, Sprite, SpriteRenderer, TimeManager, Vector2 } from "angry-pixel";
 
 export class Background extends GameObject {
     private readonly position: Vector2 = new Vector2();

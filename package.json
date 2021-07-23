@@ -30,6 +30,6 @@
         "webpack-dev-server": "^3.11.2"
     },
     "dependencies": {
-        "mini-engine": "file:../mini-engine/mini-engine-1.0.0.tgz"
+        "angry-pixel": "^1.0.0"
     }
 }

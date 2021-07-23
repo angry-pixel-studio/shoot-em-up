@@ -1,4 +1,4 @@
-import { AssetManager, GameObject, Sprite, SpriteRenderer, Vector2 } from "mini-engine";
+import { AssetManager, GameObject, Sprite, SpriteRenderer, Vector2 } from "angry-pixel";
 import { PlayerStatus } from "../../component/player/PlayerStatus";
 
 export class LifeCounter extends GameObject {

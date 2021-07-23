@@ -1,4 +1,4 @@
-import { Game, Rectangle, CollisionMethodConfig, GameConfig, Vector2 } from "mini-engine";
+import { Game, Rectangle, CollisionMethodConfig, GameConfig, Vector2 } from "angry-pixel";
 import { GameScene } from "./scene/GameScene";
 import { StartScene } from "./scene/StartScene";
 import { LoadingScene } from "./scene/LoadingScene";

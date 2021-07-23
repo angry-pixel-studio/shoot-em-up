@@ -7,7 +7,7 @@ import {
     TextRenderer,
     TimeManager,
     Vector2,
-} from "mini-engine";
+} from "angry-pixel";
 import { InputController } from "../InputController";
 
 const text = `PRESS ENTER TO START
@@ -62,7 +62,7 @@ export class StartMenu extends GameObject {
     }
 
     protected update(): void {
-        this.spriteRenderer.rotation += TimeManager.deltaTime * 200;
+        this.spriteRenderer.rotation.degrees += TimeManager.deltaTime * 200;
 
         if (this.starting === false && this.inputController.enter) {
             this.starting = true;

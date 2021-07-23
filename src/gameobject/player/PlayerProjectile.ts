@@ -8,7 +8,7 @@ import {
     SpriteRenderer,
     TimeManager,
     Vector2,
-} from "mini-engine";
+} from "angry-pixel";
 import { PlayerWeapon } from "../../component/player/PlayerWeapon";
 
 const PROJECTILE_SPEED = 600;

@@ -1,4 +1,4 @@
-import { Animation, AssetManager, Sprite, Vector2 } from "mini-engine";
+import { Animation, AssetManager, Sprite, Vector2 } from "angry-pixel";
 
 export const playerFly = (): Animation =>
     new Animation({

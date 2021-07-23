@@ -1,4 +1,4 @@
-import { AssetManager, AudioPlayer, Component, GameObjectManager, TYPE_AUDIO_PLAYER } from "mini-engine";
+import { AssetManager, AudioPlayer, Component, GameObjectManager, TYPE_AUDIO_PLAYER } from "angry-pixel";
 import { GameController } from "../../gameobject/GameController";
 import { InputController } from "../../gameobject/InputController";
 import { PlayerProjectile } from "../../gameobject/player/PlayerProjectile";

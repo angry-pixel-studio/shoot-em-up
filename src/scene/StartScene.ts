@@ -1,4 +1,4 @@
-import { AssetManager, Scene } from "mini-engine";
+import { AssetManager, Scene } from "angry-pixel";
 import { InputController } from "../gameobject/InputController";
 import { StartMenu } from "../gameobject/startScene/StartMenu";
 
