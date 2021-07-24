@@ -28,6 +28,6 @@
         "webpack-dev-server": "^3.11.2"
     },
     "dependencies": {
-        "angry-pixel": "^1.0.0"
+        "angry-pixel": "^1.0.1"
     }
 }
